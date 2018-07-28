@@ -3,6 +3,9 @@
 > `EventEmitter` for next generation,
 > which is well-typed in TypeScript and supports `Promise` and `AsyncIterator`
 
+[![Build Status][travis-badge]](https://travis-ci.org/MakeNowJust/eenext)
+[![NPM Version][npm-badge]](https://www.npmjs.com/package/eenext)
+
 ## Install
 
 NPM:
@@ -332,3 +335,6 @@ Type Parameters:
 ## License
 
 MIT License.
+
+[travis-badge]: https://img.shields.io/travis/MakeNowJust/eenext/master.svg?style=for-the-badge&logo=travis&colorA=8B6858
+[npm-badge]: https://img.shields.io/npm/v/eenext.svg?style=for-the-badge&colorA=001f34
