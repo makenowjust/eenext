@@ -337,4 +337,4 @@ Type Parameters:
 MIT License.
 
 [travis-badge]: https://img.shields.io/travis/MakeNowJust/eenext/master.svg?style=for-the-badge&logo=travis&colorA=8B6858
-[npm-badge]: https://img.shields.io/npm/v/eenext.svg?style=for-the-badge&colorA=001f34
+[npm-badge]: https://img.shields.io/npm/v/eenext.svg?style=for-the-badge&logo=npm&colorA=580e0e&colorB=e03838
