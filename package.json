@@ -15,6 +15,9 @@
     "lint": "maid lint",
     "test": "maid test"
   },
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "@types/jest": "^23.3.0",
     "jest": "^23.4.1",
